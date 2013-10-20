@@ -1,0 +1,5 @@
+# hf build target list
+# <lunchcombo> <branch> [period: "D"aily, "W"eekly or "M"onthly]
+# Absence of a period indicates Daily (the default)
+
+hf_d2spr-userdebug cm-10.2
